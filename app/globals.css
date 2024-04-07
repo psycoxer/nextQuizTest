@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.ReactCollapse--collapse {
+  transition: height 250ms;
+}
